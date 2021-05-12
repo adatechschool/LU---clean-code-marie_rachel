@@ -49,8 +49,6 @@ Une manière de concevoir l'écriture du code qui vient de l'US Navy dans les an
 
 ⇒ chaque sous-classe ou classe dérivée doit être substituable par sa base ou sa classe parent
 
-This means that every subclass or derived class should be substitutable for their base or parent class.
-
 > Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a 
 subtype of T.
 
